@@ -1,7 +1,7 @@
 platform: Common
 buildPlatform:
 displayName: Authenticate with netrc
-description: "Add credentials via .netrc file"
+description: "Add credentials to the .netrc file"
 inputs:
 - key: 'AC_NETRC_HOSTNAME'
   defaultValue: '$AC_NETRC_HOSTNAME'

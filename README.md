@@ -1,6 +1,6 @@
 # Appcircle _Authenticate with netrc_ component
 
-Add credentials via .netrc file
+Add credentials to the `.netrc` file
 
 ## Required Inputs
 
