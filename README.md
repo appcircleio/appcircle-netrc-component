@@ -4,9 +4,9 @@ Add credentials to the `.netrc` file
 
 ## Required Inputs
 
-- `AC_NETRC_HOSTNAME`: Host. Specifies the hostname of the server.
-- `AC_NETRC_USER`: Username. Specifies the username of the host.
-- `AC_NETRC_PASS`: Password. Specifies the password of the host.
+- `AC_NETRC_HOSTNAME`: Specifies the hostname of the server where the username and password will be used, for example, `github.com`.
+- `AC_NETRC_USER`: Specifies the username of the host.
+- `AC_NETRC_PASS`: Password or the authentication-token/access-token in the respective field which will be used by the host to authenticate you.
 
 ## Discussion
 
