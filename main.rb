@@ -23,4 +23,4 @@ else
   puts 'Creating .netrc file with credentials.'
 end
 File.write(netrc_path, value, mode: 'a+')
-`chmod 660 #{netrc_path}`
+`chmod 0600 #{netrc_path}`
